@@ -5,6 +5,5 @@ import (
 )
 
 func main(){
-	fmt.Println("slack")
 	fmt.Println("golang")
 }
